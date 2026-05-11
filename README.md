@@ -20,7 +20,7 @@ code_editor.xml
 
 <h4> 4. Sostituire il file originale </h4>
 Copiare il file rinominato all’interno della cartella:
-data
+data <br>
 Windows chiederà se si desidera sostituire il file esistente: confermare.
 
 <h4> 5. Avviare MySQL Workbench </h4>
