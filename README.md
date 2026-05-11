@@ -9,7 +9,7 @@ code_editor_dark_mode.xml
 <h4> 2. Aprire la cartella di installazione di MySQL Workbench </h4>
 Aprire Esplora File e seguire questo percorso:
 Questo PC > Disco Locale (C:) > Programmi > MySQL > MySQL Workbench 8.0 CE > data
-In alcune versioni, la cartella può chiamarsi:
+<br> In alcune versioni, la cartella può chiamarsi:
 MySQL Workbench CE invece di MySQL Workbench 8.0 CE.
 
 <h4> 3. Rinominare il file scaricato </h4>
